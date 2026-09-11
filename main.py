@@ -61,7 +61,6 @@ class AppDivision():
             border_radius=10,
             content=
             ft.Column(
-                # horizontal_alignment=ft.CrossAxisAlignment.END,
                 controls=[
                     ft.Row(
                         alignment=ft.MainAxisAlignment.CENTER,
